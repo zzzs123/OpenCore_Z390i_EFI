@@ -1,0 +1,2 @@
+# OpenCore_Z390i_EFI
+ASUS ROG Strix Z390 ITX
